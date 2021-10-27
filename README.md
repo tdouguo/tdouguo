@@ -17,7 +17,7 @@
 
 📒[蚂蚁笔记](https://note.onf.cc)
 
-💻[Gogs](git.onf.cc)
+💻[Gogs](https://git.onf.cc)
 
 ---
 

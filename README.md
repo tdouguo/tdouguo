@@ -15,6 +15,13 @@
 
 🧩[多合一图床](https://pic.onf.cc)
 
+🏞[图片压缩](https://ic.onf.cc/)
+
+🎬[Favicon/ICO图标生成](https://ico.onf.cc/)
+
+
+#### private service
+
 📒[蚂蚁笔记](https://note.onf.cc)
 
 💻[Gogs](https://git.onf.cc)

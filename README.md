@@ -19,6 +19,8 @@
 
 🎬[Favicon/ICO图标生成](https://ico.onf.cc/)
 
+🎲[在线3D魔方](https://mf.onf.cc/)
+
 
 #### private service
 

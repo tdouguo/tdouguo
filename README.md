@@ -13,8 +13,6 @@
 
 🌪[便携小空调](https://ac.onf.cc/)
 
-☠[每日一碗毒鸡汤](https://www.tdouplus.com/soul/)
-
 🧩[多合一图床](https://pic.onf.cc)
 
 🏞[图片压缩](https://ic.onf.cc/)
@@ -26,9 +24,11 @@
 
 #### private service
 
-📒[蚂蚁笔记](https://note.onf.cc)
-
 💻[Gogs](https://gogs.onf.cc)
+
+💻[ChatGPT Next Web](https://tudouss.top)
+
+💻[ChatGPT Next Web 4.0](https://4.tudouss.top)
 
 ---
 

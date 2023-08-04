@@ -7,28 +7,37 @@
 📫 Personal Blog: [www.tdouguo.com](https://www.tdouguo.com) 
 
 
-#### Self-built service
-
-🚱[去水印API接口](https://qsy.onf.cc/tiqu/?url=) https://qsy.onf.cc/tiqu/?url=
-
-🌪[便携小空调](https://ac.onf.cc/)
-
-🧩[多合一图床](https://pic.onf.cc)
-
-🏞[图片压缩](https://ic.onf.cc/)
-
-🎬[Favicon/ICO图标生成](https://ico.onf.cc/)
-
-🎲[在线3D魔方](https://mf.onf.cc/)
-
-
 #### private service
 
-💻[Gogs](https://gogs.onf.cc)
+- **Bamboo**: CI/CD服务 [ci.onf.cc](https://ci.onf.cc)
+- **Bitbucket**: 版本控制系统 [git.onf.cc](https://git.onf.cc)
+- **Confluence**: 文档协作工具 [wiki.onf.cc](https://wiki.onf.cc)
+- **Crowd**: 身份管理服务 [auth.onf.cc](https://auth.onf.cc)
+- **Jira**: 项目和问题跟踪工具 [jira.onf.cc](https://jira.onf.cc)
+- **Gogs**: 版本控制系统 [gogs.onf.cc](https://gogs.onf.cc)
 
-💻[ChatGPT Next Web](https://tudouss.top)
 
-💻[ChatGPT Next Web 4.0](https://4.tudouss.top)
+#### public service
+
+- 💻[ChatGPT Next Web](https://tudouss.top)
+- 💻[ChatGPT Next Web 4.0](https://4.tudouss.top)
+
+
+## 工具
+
+- 🧰免费在线图片压缩 [ic.onf.cc](https://ic.onf.cc/)
+- 🏞多功能图片转换器 [to.onf.cc](https://to.onf.cc)
+- 🧩多合一图床 [pic.onf.cc](https://pic.onf.cc/)
+- 🎬Favicon/ICO图标生成 [ico.onf.cc](https://ico.onf.cc/)
+- 🚱去水印API接口 https://qsy.onf.cc/tiqu/?url=
+
+## 娱乐
+
+- 🌪便携小空调 [ac.onf.cc](https://ac.onf.cc)
+- 🎲在线3D魔方 [mf.onf.cc](https://mf.onf.cc/)
+- 📦推箱子 [pk.onf.cc](https://pk.onf.cc)
+
+
 
 ---
 

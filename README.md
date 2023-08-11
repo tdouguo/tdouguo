@@ -1,5 +1,5 @@
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tdou;+Welcome+to+My+Profile!;Always+learning+new+things+;Machine+learning+enthusiast+)](https://git.io/typing-svg)
 
 > 落日沉溺于橘色的海 晚风沦陷于赤诚的爱
 
@@ -55,15 +55,11 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tdouguo"></img>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <!--   grid-snake -->
 ![](https://github.com/tdouguo/tdouguo/blob/output/github-contribution-grid-snake.svg)
 
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tdouguo" width="auto"></img>
-
 
 
 ### 观看者记录

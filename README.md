@@ -1,3 +1,6 @@
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
 > 落日沉溺于橘色的海 晚风沦陷于赤诚的爱
 
 ### Hi there 👋
@@ -40,13 +43,28 @@
 
 
 ---
-![github contribution grid snake animation](https://raw.githubusercontent.com/tdouguo/tdouguo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/tdouguo/tdouguo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 <!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+<!-- [![tdouguo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tdouguo&theme=github-compact)](https://github.com/tdouguo/github-readme-activity-graph) -->
+![tdouguo's github activity graph](https://raw.githubusercontent.com/tdouguo/tdouguo/output/github-contribution-grid-snake.svg)
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![tdouguo's github stats](https://github-readme-stats.vercel.app/api?username=tdouguo&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tdouguo&theme=radical&layout=compact) |
 
-![](https://github-readme-stats.vercel.app/api?username=tdouguo&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tdouguo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tdouguo"></img>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tdouguo&theme=dark)
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake -->
+![](https://github.com/tdouguo/tdouguo/blob/output/github-contribution-grid-snake.svg)
+
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tdouguo" width="auto"></img>
+
+
 
 ### 观看者记录
 本节中此页面的访问者计数从 2023 年 8 月 11 日开始

@@ -40,9 +40,18 @@
 
 
 ---
+![github contribution grid snake animation](https://raw.githubusercontent.com/tdouguo/tdouguo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/tdouguo/tdouguo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!--   GitHub stats graph -->
 
 ![](https://github-readme-stats.vercel.app/api?username=tdouguo&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tdouguo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tdouguo&theme=dark)
+
+### 观看者记录
+本节中此页面的访问者计数从 2023 年 8 月 11 日开始
+
+![](https://moe-counter.glitch.me/get/@tdouguo.github.readme)
 
 ---
 

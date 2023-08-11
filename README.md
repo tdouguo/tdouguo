@@ -58,10 +58,6 @@
 <!--   grid-snake -->
 ![](https://github.com/tdouguo/tdouguo/blob/output/github-contribution-grid-snake.svg)
 
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tdouguo" width="auto"></img>
-
-
 ### 观看者记录
 本节中此页面的访问者计数从 2023 年 8 月 11 日开始
 

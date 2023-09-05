@@ -32,7 +32,7 @@
 - 🏞多功能图片转换器 [to.onf.cc](https://to.onf.cc)
 - 🧩多合一图床 [pic.onf.cc](https://pic.onf.cc/)
 - 🎬Favicon/ICO图标生成 [ico.onf.cc](https://ico.onf.cc/)
-- 🚱去水印API接口 https://qsy.onf.cc/tiqu/?url=
+- 🚱去水印API接口 [qsy.onf.cc](https://qsy.onf.cc/)
 
 #### 娱乐
 

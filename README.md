@@ -14,8 +14,8 @@
 
 - **Bamboo**: CI/CD服务 [ci.onf.cc](https://ci.onf.cc)
 - **Bitbucket**: 版本控制系统 [git.onf.cc](https://git.onf.cc)
-- **Confluence**: 文档协作工具 [wiki.onf.cc](https://wiki.onf.cc)
-- **Crowd**: 身份管理服务 [auth.onf.cc](https://auth.onf.cc)
+- **Confluence**: 文档协作工具 [doc.onf.cc](https://doc.onf.cc)
+- **Crowd**: 身份管理服务 [sso.onf.cc](https://auth.onf.cc)
 - **Jira**: 项目和问题跟踪工具 [jira.onf.cc](https://jira.onf.cc)
 - **Gogs**: 版本控制系统 [gogs.onf.cc](https://gogs.onf.cc)
 

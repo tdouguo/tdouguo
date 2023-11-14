@@ -12,32 +12,29 @@
 
 #### private service
 
-- **Bamboo**: CI/CD服务 [ci.onf.cc](https://ci.onf.cc)
-- **Bitbucket**: 版本控制系统 [git.onf.cc](https://git.onf.cc)
-- **Confluence**: 文档协作工具 [doc.onf.cc](https://doc.onf.cc)
-- **Crowd**: 身份管理服务 [sso.onf.cc](https://auth.onf.cc)
-- **Jira**: 项目和问题跟踪工具 [jira.onf.cc](https://jira.onf.cc)
 - **Gogs**: 版本控制系统 [gogs.onf.cc](https://gogs.onf.cc)
 
 
 #### public service
 
-- 💻[ChatGPT Next Web](https://tudouss.top)
-- 💻[ChatGPT Next Web 4.0](https://4.tudouss.top)
+- 💻[ChatGPT Next Web](https://thh.cc)
+- 💻[Pandora Next](https://chat.thh.cc)
 
 
 #### 工具
 
-- 🧰免费在线图片压缩 [ic.onf.cc](https://ic.onf.cc/)
+- 🧰免费在线图片压缩 [ic.onf.cc](https://ic.onf.cc)
 - 🏞多功能图片转换器 [to.onf.cc](https://to.onf.cc)
-- 🧩多合一图床 [pic.onf.cc](https://pic.onf.cc/)
-- 🎬Favicon/ICO图标生成 [ico.onf.cc](https://ico.onf.cc/)
-- 🚱去水印API接口 [qsy.onf.cc](https://qsy.onf.cc/)
+- 🧩多合一图床 [pic.onf.cc](https://pic.onf.cc)
+- 🎬Favicon/ICO图标生成 [ico.onf.cc](https://ico.onf.cc)
+- 🚱去水印API接口 [qsy.onf.cc](https://qsy.onf.cc)
+- 📄PDF工具 [Stirling PDF](https://pdf.onf.cc)
+- 🖼GIf压缩 [Gifsicle Wasm Broswer](https://gif.onf.cc)
 
 #### 娱乐
 
 - 🌪便携小空调 [ac.onf.cc](https://ac.onf.cc)
-- 🎲在线3D魔方 [mf.onf.cc](https://mf.onf.cc/)
+- 🎲在线3D魔方 [mf.onf.cc](https://mf.onf.cc)
 - 📦推箱子 [pk.onf.cc](https://pk.onf.cc)
 
 

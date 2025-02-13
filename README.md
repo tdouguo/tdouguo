@@ -10,17 +10,6 @@
 📫 Personal Blog: [www.tdouguo.com](https://www.tdouguo.com) 
 
 
-#### private service
-
-- **Gogs**: 版本控制系统 [gogs.onf.cc](https://gogs.onf.cc)
-
-
-#### public service
-
-- 💻[ChatGPT Next Web](https://thh.cc)
-- 💻[Pandora Next](https://chat.thh.cc)
-
-
 #### 工具
 
 - 🧰免费在线图片压缩 [ic.onf.cc](https://ic.onf.cc)
